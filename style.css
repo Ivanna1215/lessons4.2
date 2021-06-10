@@ -1,0 +1,16 @@
+header{
+    background: red;
+    text-align: center;
+}
+div{
+    text-align: center;  
+}
+.fest part {
+    text-decoration:underline;
+    color: crimson;
+
+}
+footer{
+    background: chocolate;
+    text-align: center;
+}
